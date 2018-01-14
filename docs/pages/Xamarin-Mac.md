@@ -110,7 +110,7 @@ More to come ...
 
 ```liquid
 {% raw %}
-Place code here
+Enjoy the successful output!
 {% endraw %}
 ```
 
@@ -118,6 +118,6 @@ Place code here
 
 ### External Sources
 
-- The [Hello Mac: Getting Started](https://mminail.github.io){:title="Click to Visit the 'Hello Mac: Getting Started' Page of the Xamarin Mac Development Team"}{:target="_blank"} page of the *Xamarin Mac Development Team*. Published by © 2017 [Microsoft.com](https://mminail.github.io/) {:title="Click to Visit the Home Page of Microsoft dot com"}{:target="_blank"}.
+- The [Hello Mac: Getting Started](https://mminail.github.io){:title="Click to Visit the 'Hello Mac: Getting Started' Page of the Xamarin Mac Development Team"}{:target="_blank"} page of the *Xamarin Mac Development Team*. Published by © 2017 [Microsoft.com](https://mminail.github.io/){:title="Click to Visit the Home Page of Microsoft dot com"}{:target="_blank"}.
 
 - The [Project Source Links](https://mminail.github.io/Xamarin/Source-Xamarin-Links.htm){:title="Click to Visit the Source Links page of the Xamarin Lessons Project at GitHub pages"}{:target="_blank"} page of the Xamarin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
