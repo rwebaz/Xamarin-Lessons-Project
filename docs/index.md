@@ -5,7 +5,7 @@ navigation_weight: 1
 ---
 # Xamarin Lessons Project Home Page
 
-{{ site.tagline }}
+{{ site.description }}
 
 ## Table O Contents
 
@@ -16,11 +16,11 @@ navigation_weight: 1
 
 **Note**. The above **Live** rendition of the **MMI™ Flammarion Logo Badge** ( if visible ) is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
 
-## Issue
+## Issue Dtd 12-31-17
 
 The **Issue** of a successful legal argument is prefaced by a concise, to the point coin flip.
 
-Should it be, or should it not?
+Should it be, or should it not be?
 
 ### The Socratic Method
 
@@ -62,4 +62,4 @@ Expound the solution ...
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Xamarin/Source-Xamarin-Links.htm){:title="Click to Visit the Source Links page of the Xamarin Lessons Project at GitHub pages"}{:target="_blank"} page of the Xamarin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/Xamarin/Source-Xamarin-Links.htm){:title="Click to Visit the Source Links page of the Xamarin Lessons Project at GitHub pages"}{:target="_blank"} page of the Xamarin Lessons Project. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
