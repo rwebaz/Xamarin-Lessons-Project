@@ -23,6 +23,6 @@ categories: page
 
 To view a list of aggregate external links for this project, visit the [Home Page](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library at MMINAIL'}{:target='_blank'} of the MMINAIL concept library.
 
-- [Zazzle-Hempaz Source Links](../Zazzle-Hempaz/Zazzle-Hempaz-Source-Links.htm){:title="Click to Visit the Zazzle-Hempaz Source Links page of the Zazzle-Hempaz Lessons Project at the Concept Library"}{:target="_self"}
+- [Xamarin Source Links](../Xamarin/Xamarin-Source-Links.htm){:title="Click to Visit the Xamarin Source Links page of the Xamarin Lessons Project at the Concept Library"}{:target="_self"}
 
 {% include patreon-link.md %}
