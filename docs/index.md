@@ -4,8 +4,8 @@ layout: default
 excerpt: Place the introducing line of text ie.) the 'lead' here ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 description_two: Raw Code, Issues, and Sources
-repo: Xamarin Lessons Project
-ver_date: 11-12-19
+repo: Xamarin-Lessons-Project
+ver_date: 11-17-19
 navigation_weight: 1
 categories: page
 ---
