@@ -3,12 +3,14 @@ title: Xamarin Mac
 layout: default
 excerpt: Place the introducing line of text ie.) the 'lead' here ...
 description: Place the intro paragraph ie.) the 'synopsis' here ...
-repo: Xamarin Lessons Project 
+repo: Xamarin-Lessons-Project 
 ver_date: 11-17-19
 navigation_weight: 8
 categories: template
 ---
 {% include toc.md %}
+
+## X-code
 
 If you are an **Apple Mac Book Pro** owner - developer, you already have a copy of Apple **X-code** on your machine.
 
