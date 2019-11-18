@@ -20,6 +20,7 @@ encoding: UTF-8
 title: "Xamarin Lessons Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize the Xamarin development engine"
 description: "The Xamarin Lessons Project, or XLP is a GitHub repo of Lessons and Articles emphasizing the Xamarin development engine."
+#
 twitter:
     username: "mminail"
 author:
